@@ -15,11 +15,11 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
-    <!-- Flamenco Font --> 
+    <!-- Flamenco Font -->
     <link href='https://fonts.googleapis.com/css?family=Flamenco' rel='stylesheet' type='text/css'>
-    <!-- Volkorn Font --> 
+    <!-- Volkorn Font -->
     <link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-    <!-- Custom Stylesheet --> 
+    <!-- Custom Stylesheet -->
     <link href="css/custom-style.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -35,6 +35,7 @@
                     <a href="#">Tiger's Explore</a>
                 </li>
                 <li><a href="#">Home</a></li>
+                <li><a href="#">Apartment</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Nightlife</a></li>
                 <li><a href="#">Day Trips</a></li>
@@ -48,8 +49,8 @@
         <div id="page-content-wrapper">
 
 
-            <!-- menu-button --> 
-            <div class="container-fluid"> 
+            <!-- menu-button -->
+            <div class="container-fluid">
                 <div class="col-12">
                     <div class="container-fluid">
                     <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">
@@ -58,11 +59,11 @@
                     </div>
                 </div>
             <div>
-            <!-- /menu-button --> 
+            <!-- /menu-button -->
 
 
             <div class="row">
-                <div class="container"> 
+                <div class="container">
                     <div class="col-12">
                         <h1>Tiger's Explore</h1>
 
@@ -70,7 +71,7 @@
 
                         <div>
                         <p>RIT Students Explore is a website created to help students find things to do in and around RIT. From where to eat, to activities on the weekend, or during the week, date-night ideas and day-tips, this website is designed to be the go-to destination for members of the RIT community to find places to go, and things to do so that their experience while attending RIT is as rich and involved as it possibly can be. </p>
-                        
+
                         <h2>Site Mission</h2>
 
                         <p>Tigers Explore is a designed to be a companion and guide to new people to the RIT community a resource to find things to do so that they may feel welcome and comfortable in the community as well as make the most of their experience at RIT.</p>
@@ -82,7 +83,7 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
         <!-- /#page-content-wrapper -->
 
