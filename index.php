@@ -27,8 +27,8 @@
 <body>
 
     <div id="wrapper">
-
-        <!-- Sidebar -->
+        
+        <!-- Sidebar 
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
@@ -42,7 +42,11 @@
                 <li><a href="#">Support</a></li>
             </ul>
         </div>
-        <!-- /#sidebar-wrapper -->
+        /#sidebar-wrapper -->
+
+        <?php 
+            include "nav_menu.php"; 
+        ?> 
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
@@ -62,13 +66,15 @@
 
 
             <div class="row">
-                <div class="container"> 
+                <div class="container-fluid"> 
                     <div class="col-12">
                         <h1>Tiger's Explore</h1>
 
                         <h2>Introduction</h2>
 
-                        <div>
+                        
+                        <img src="">
+
                         <p>RIT Students Explore is a website created to help students find things to do in and around RIT. From where to eat, to activities on the weekend, or during the week, date-night ideas and day-tips, this website is designed to be the go-to destination for members of the RIT community to find places to go, and things to do so that their experience while attending RIT is as rich and involved as it possibly can be. </p>
                         
                         <h2>Site Mission</h2>
@@ -78,7 +84,7 @@
                         <h2>Site Vision</h2>
 
                         <p>Tigers Explore  site will serve as a “virtual” travel guide made-by-students for students to encourage exploration of all the unique places in the RIT community and a place where students can share their experiences to better connect with each other.</p>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
