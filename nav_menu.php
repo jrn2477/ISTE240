@@ -14,7 +14,7 @@
 </ul>
 </div>
 <!-- /#sidebar-wrapper -->
-
+<!-- 
 <?php
     echo "<div id='sidebar-wrapper'>";
     echo "<ul class='sidebar-nav'>";
@@ -30,7 +30,5 @@
     echo "</li>";
 
     # This is the echo statement for the first link 
-
-
-
 ?>
+--> 
