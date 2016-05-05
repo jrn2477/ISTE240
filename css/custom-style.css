@@ -7,16 +7,16 @@ p {
 	font-family: 'Volkorn';
 	font-size: 1.1em;
 	font-weight: 500;
-}	
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font-size-adjust: 125%;
 }
-/* 
+/*
 **************************************
 	Secondary Menu
 ***************************************
-*/ 
+*/
 .sm_item {
 	list-style: none;
 	display: inline-block;
@@ -44,12 +44,12 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-/* 
+/*
 **************************************
-	create responsive grid based upon 
-	a 12-column layout 
+	create responsive grid based upon
+	a 12-column layout
 ***************************************
-*/ 
+*/
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -63,31 +63,31 @@ h1, h2, h3, h4, h5, h6 {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-/* 
+/*
 **************************************
 	float all columns to the left
 **************************************
 
-*/ 
+*/
 [class*="col-"] {
     float: left;
 }
 
 /* sidebar nav */
-.sidebar-nav > .sidebar-brand,.sidebar-nav li a, 
+.sidebar-nav > .sidebar-brand,.sidebar-nav li a,
 .sidebar-nav > .sidebar-brand a  {
-	color: #FF9519; 
+	color: #FF9519;
 	background-color: #000;
 }
 .sidebar-nav > .sidebar-brand:hover,.sidebar-nav li a:hover {
-	color: #FFF; 
+	color: #FFF;
 	background-color: #FF8A00;
 	transition: 0.1s;
 }
 .sidebar-nav li a:hover {
 	text-indent: 30px;
 }
-/* Menu Icon */ 
+/* Menu Icon */
 .glyphicon {
 	background-color: rgba(0,0,0,0);
 }
@@ -115,14 +115,14 @@ a#menu-toggle {
 .rtt a:hover {
 	color: white;
 }
-/* Cobs hill text area */ 
+/* Cobs hill text area */
 .ch_desc {
 	width: 95% !important;
 }
-.desc {width: 80%;}
-.img { width: 90%; }
-.sm_img {width: 70%;}
-.map { width: 95%;}
+.desc {width: 80%;} /* Sizing for the descriptions */
+.img { width: 90%; } /* Sizing for images */
+.sm_img {width: 70%;} /* Sizing for images to make it a litte smaller */
+.map { width: 95%;} /* Sizing for Google Maps */ 
 figure {
 	text-align: center;
 	position: relative;
@@ -154,7 +154,7 @@ figure {
 	.foodpics img{
 		width: 250px;
 		height: 175x;
-		padding: 20px;	
+		padding: 20px;
 	}
 }
 
@@ -166,6 +166,3 @@ figure {
 
 // Extra large devices (large desktops, 75em and up)
 @media (min-width: 75em) { ... }
-
-
-
