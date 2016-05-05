@@ -7,7 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Team 1
+    ">
 
     <title>Homepage</title>
 
@@ -46,30 +47,36 @@
 
         <?php 
             include "nav_menu.php"; 
-        ?> 
+        ?>
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
 
 
-            <!-- menu-button --> 
+            <!-- Header --> 
+            <div class="row">
             <div class="container-fluid"> 
-                <div class="col-12">
-                    <div class="container-fluid">
+                <div class="container-fluid col-lg-1">
+                    <!-- menu-button --> 
                     <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">
                         <span class="glyphicon glyphicon-menu-hamburger"></span>
                     </a>
-                    </div>
+                </div><!-- /menu-button --> 
+                <div class="11">
+                    <!-- Site Title & Subtitle --> 
+                    <h1 id="top"><!-- Start Title--><b>Tiger's Explore </b><!-- End Title-->
+                    <!-- Start subtitle--><!-- End Subtitle-->
+                    </h1>
                 </div>
-            <div>
-            <!-- /menu-button --> 
+            </div>
+            </div>
+            <!-- End Header--> 
 
 
             <div class="row">
-                <div class="container-fluid"> 
-                    <div class="col-12">
-                        <h1>Tiger's Explore</h1>
-
+                <div class="container"> 
+                    <div class="col-lg-10">
+                        
                         <h2>Introduction</h2>
 
                         
