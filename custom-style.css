@@ -1,0 +1,86 @@
+* {
+	font-family: 'Flamenco', serif;
+	background-color: #FF9519;
+}
+
+p {
+	font-family: 'Volkorn';
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size-adjust: 125%;
+}
+
+/* 
+**************************************
+	create responsive grid based upon 
+	a 12-column layout 
+***************************************
+*/ 
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+/* 
+**************************************
+	float all columns to the left
+**************************************
+
+*/ 
+[class*="col-"] {
+    float: left;
+}
+
+/* sidebar nav */
+.sidebar-nav > .sidebar-brand,.sidebar-nav li a, 
+.sidebar-nav > .sidebar-brand a  {
+	color: #FF9519; 
+	background-color: #000;
+}
+.sidebar-nav > .sidebar-brand:hover,.sidebar-nav li a:hover {
+	color: #FFF; 
+	background-color: #FF8A00;
+	transition: 0.1s;
+}
+.sidebar-nav li a:hover {
+	text-indent: 30px;
+}
+/* Menu Icon */ 
+.glyphicon {
+	background-color: rgba(0,0,0,0);
+}
+.no-mobile {
+	display: none;
+}
+.foodpics img{
+	width: 300px;
+	height: 215x;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+@media @media(min-width:768px) {
+	.no-mobile {
+		display: inherit;
+	}
+	.foodpics img{
+		width: 250px;
+		height: 175x;
+		padding: 20px;	
+}
+}
+
+
+
