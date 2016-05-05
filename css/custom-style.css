@@ -129,6 +129,15 @@ figure {
 	left: -30px;
 }
 
+/*Steven's CSS */
+.foodpics img{
+	width: 300px;
+	height: 215x;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
 @media @media(min-width:768px) {
 	.no-mobile {
 
@@ -141,7 +150,12 @@ figure {
 
 // Small devices (landscape phones, 34em and up)
 @media (min-width: 34em) {
-
+/*steven's css */
+	.foodpics img{
+		width: 250px;
+		height: 175x;
+		padding: 20px;	
+	}
 }
 
 // Medium devices (tablets, 48em and up)
