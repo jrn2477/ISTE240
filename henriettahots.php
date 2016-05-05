@@ -73,8 +73,8 @@
                         <h2>Henrietta Hots</h2>
 
                         <div class="foodpics">
-							<img src="images/hotspic1.jpg">
-							<img src="images/hotspic2.jpg">
+							<img src="img/hotspic1.jpg">
+							<img src="img/hotspic2.jpg">
 						</div>
 						
                         <p><b>Location:</b> 3553 W Henrietta Rd, Henrietta NY<br>
