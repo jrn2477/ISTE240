@@ -116,17 +116,20 @@ a#menu-toggle {
 	color: white;
 }
 /* Cobs hill text area */
-.ch_desc {
-	width: 95% !important;
-}
+.ch_desc { width: 95% !important; }
+.sh_left { position: relative !important; left: -20px !important;}
 .desc {width: 80%;} /* Sizing for the descriptions */
 .img { width: 90%; } /* Sizing for images */
 .sm_img {width: 70%;} /* Sizing for images to make it a litte smaller */
-.map { width: 95%;} /* Sizing for Google Maps */ 
+.map { width: 95%;} /* Sizing for Google Maps */
 figure {
 	text-align: center;
 	position: relative;
 	left: -30px;
+}
+iframe {
+	min-width: 100%;
+	max-width: 90%;
 }
 
 /*Steven's CSS */

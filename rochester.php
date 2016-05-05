@@ -16,11 +16,11 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
-    <!-- Flamenco Font --> 
+    <!-- Flamenco Font -->
     <link href='https://fonts.googleapis.com/css?family=Flamenco' rel='stylesheet' type='text/css'>
-    <!-- Volkorn Font --> 
+    <!-- Volkorn Font -->
     <link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-    <!-- Custom Stylesheet --> 
+    <!-- Custom Stylesheet -->
     <link href="css/custom-style.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -28,8 +28,8 @@
 <body>
 
     <div id="wrapper">
-        
-        <!-- Sidebar 
+
+        <!-- Sidebar
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
@@ -45,39 +45,39 @@
         </div>
         /#sidebar-wrapper -->
 
-        <?php 
-            include "nav_menu.php"; 
+        <?php
+            include "nav_menu.php";
         ?>
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
 
-            <!-- Header --> 
+            <!-- Header -->
             <div class="row">
-            <div class="container-fluid"> 
+            <div class="container-fluid">
                 <div class="container-fluid col-lg-1">
-                    <!-- menu-button --> 
+                    <!-- menu-button -->
                     <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">
                         <span class="glyphicon glyphicon-menu-hamburger"></span>
                     </a>
-                </div><!-- /menu-button --> 
+                </div><!-- /menu-button -->
                 <div class="11">
-                    <!-- Site Title & Subtitle --> 
+                    <!-- Site Title & Subtitle -->
                     <h1 id="top"><!-- Start Title--><b>Tiger's Explore </b><!-- End Title-->
                     <!-- Start subtitle-->Rochester<!-- End Subtitle-->
                     </h1>
                 </div>
             </div>
             </div>
-            <!-- End Header--> 
+            <!-- End Header-->
 
 
             <div class="container">
-            
 
 
-            
-                <div class="container-fluid"> 
+
+
+                <div class="container-fluid">
                     <div class="row">
                     <div class="sec_menu col-12">
                         <ul>
@@ -91,24 +91,24 @@
 
 
                         <div class="row">
-                                                
+
                         <div class="row">
                         <div class="col-xs-12 col-lg-10">
 
                             <div class="row">
                             <h2 id="Cobbs">Cobb's Hill</h2>
                             </div>
-                            
+
                             <div class="row">
                             <div class="container col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <figure>
-                                    <img class="sm_img" width="90%" src="img/cobbshill.jpg" alt="Cobb's Hill Sunset">
+                                    <img class="sm_img" src="img/cobbshill.jpg" alt="Cobb's Hill Sunset">
                                     <figcaption><a href="http://media.democratandchronicle.com/content/cobbs-hill-reservoir">Image Source</a></figcaption>
                                 </figure>
                             </div>
                             </div>
-                            
-                            <!-- Cobb's Hill Park Description Start --> 
+
+                            <!-- Cobb's Hill Park Description Start -->
                             <div class="row ch_desc">
                             <h3>About Cobb's Hill</h3>
 
@@ -118,18 +118,18 @@
 
                             <p>At the East side of the reservoir, visitors of the park wll find 100 acres of undeveloped natural beauty, right in the heart of the city. Walking trails have been sprinkled throughout the park to allow joggers, dog-walkers and other visitors of the park to meander through the park's beautiful trails. </p>
                             </div>
-                            <!-- End Cobb's Hill Park Description  --> 
+                            <!-- End Cobb's Hill Park Description  -->
 
 
-                        <!-- New Row for the Park Information --> 
+                        <!-- New Row for the Park Information -->
                         <div class="row">
-                        <div class="col-xs-12 col-lg-4">
+                        <div class="col-xs-12 col-lg-3">
                             <h3>Facilities Available:</h3>
 
                             <ul>
                                 <li>Ball Fields</li>
                                 <li>Outdoor BasketBall Courts</li>
-                                <li>Cross-country skiiing</li>
+                                <li>Cross-country sking</li>
                                 <li>Fishing</li>
                                 <li>Football/Soccer</li>
                                 <li>Playground</li>
@@ -138,7 +138,7 @@
                             </ul>
                         </div>
 
-                        <div class="col-xs-12 col-lg-4">
+                        <div class="col-xs-12 col-lg-3">
                             <h3>Park Information:</h3>
 
                             <ul>
@@ -147,32 +147,35 @@
                             </ul>
                         </div>
 
-                        <div class="col-xs-12 col-lg-4">
+                        <div class="col-xs-12 col-lg-3">
                             <h3>Hours of Operation:</h3>
 
                             <ul>
                                 <li>Summer Months (4/1 - 11/15):
                                 <ul>
-                                    <li>5:00am - 11:00pm</li> 
-                                </ul> 
+                                    <li>5:00am - 11:00pm</li>
+                                </ul>
                                 </li>
                                 <li>Winter Months (11/16 - 3/30):
                                 <ul>
-                                    <li>7:00am - 10:00pm</li> 
-                                </ul> 
+                                    <li>7:00am - 10:00pm</li>
+                                </ul>
                                 </li>
                             </ul>
                         </div>
                         </div>
-                        <!-- End Park Information Page --> 
+                        <!-- End Park Information Page -->
 
                         <div class="map" id="col-xs-12 col-lg-8">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11645.167569209969!2d-77.5715916!3d43.1403995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc8d9de86d9ff017!2sCobbs+Hill+Park!5e0!3m2!1sen!2sus!4v1462455696905" width="100%" height="70%"frameborder="1" style="border:0; margin-top: 20px;" allowfullscreen></iframe>
                         </div>
-                        
+
+
+                        <!-- Section Seperator - Link sends user back to the top of the page -->
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>
+                        <!-- End Section Seperator  -->
 
 
 
@@ -180,26 +183,21 @@
 
 
 
-
-
-
-
-
-
-                        <!-- Begginging Letchworth Section --> 
+                        <!-- Begginging Letchworth Section -->
                         <section class="row">
-                            <div class="container">
+                            <div class="row">
                             <h2 id="letchworth">Letchworth</h2>
-                            
-                            <div class="row col-12">
-                            <div class="container">
-                            <figure>
-                                <img class="sm_img" src="img/letchworth.jpg" alt="letchworth">
-                                <figcaption><a href="http://tomstirrphotography.com/autumn-images-at-letchworth-state-park">Image Source</a></figcaption>
-                            </figure>
+
+                            <div class="row">
+                            <div class="container col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <figure class="sh-left">
+                                    <img class="sm_img" src="img/letchworth.jpg" alt="Cobb's Hill Sunset">
+                                    <figcaption><a href="http://media.democratandchronicle.com/content/cobbs-hill-reservoir">Image Source</a></figcaption>
+                                </figure>
                             </div>
                             </div>
-                            
+
+                            <!-- Beggining of Description Section for Letchworth -->
                             <div class="desc">
                             <p>
                             Commonly referred to as the American Grand Canyon, Letchworth State Park stretches across 14,350 acres of land along the Genesee River. At the height of the park are three waterfalls, the tallest of which is 107 feet in height (Source). The waterfall and river have carved their way through the park to create an exquisite landscape and countless breathtaking views. </p>
@@ -208,9 +206,63 @@
 
                             <p>Catering to a variety of interests the park offers campsites, both as plots of land for those who are gonna do it the old-fashioned way and set up a tent for their stay there.  If you are a more seasoned camper, there are even campsites with water and electricity connections for campers</p>
                             </div>
+                            <!-- End Description Section for Letchworth -->
                             </div>
+                            <!-- New Row for the Park Information -->
+                            <div class="row">
+                            <div class="col-xs-12 col-lg-3">
+                                <h3>Facilities Available:</h3>
+
+                                <ul>
+                                    <li>Ball Fields</li>
+                                    <li>Outdoor BasketBall Courts</li>
+                                    <li>Cross-country sking</li>
+                                    <li>Fishing</li>
+                                    <li>Football/Soccer</li>
+                                    <li>Playground</li>
+                                    <li>Tennis Courts</li>
+                                    <li>Hiking Trails</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-xs-12 col-lg-3">
+                                <h3>Park Information:</h3>
+
+                                <ul>
+                                    <li>Phone: 585-493-3600</li>
+                                    <li>Address: 1 Letchworth State Park, Castile, NY 14427</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-xs-12 col-lg-3">
+                                <h3>Hours of Operation:</h3>
+
+                                <ul>
+                                    <li>Year Around
+                                    <ul>
+                                        <li>6:00am - 11:00pm</li>
+                                    </ul>
+                                    </li>
+                                    <li>Cabins are available mid-April to mid-November
+                                    <ul>
+                                        <li>7:00am - 10:00pm</li>
+                                    </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            </div>
+                            <!-- End Park Information Page -->
+
+                            <div class="map">
+                              <span col-lg-10>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23500.89685079487!2d-78.0435135!3d42.584755!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x68bb9da938563a90!2sLetchworth+State+Park!5e0!3m2!1sen!2sus!4v1462464147913" frameborder="0" style="border:0" allowfullscreen></iframe>
+                              </span>
+                            </div>
+
+
+
                         </section>
-                        <!-- End Letchworth Section --> 
+                        <!-- End Letchworth Section -->
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>
@@ -219,7 +271,7 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
         <!-- /#page-content-wrapper -->
         </div>
@@ -239,7 +291,9 @@
         $("#wrapper").toggleClass("toggled");
     });
     </script>
-    <!-- Google Maps API --> 
+
+
+    <!-- Google Maps API -->
     <script src="https://maps.googleapis.com/maps/api/js" async defer></script>
 
 </body>
