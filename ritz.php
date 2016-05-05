@@ -73,8 +73,8 @@
                         <h2>Ritz Sportszone</h2>
 
                         <div class="foodpics">
-							<img src="images/ritz.jpg">
-							<img src="images/ritzpool.jpg">
+							<img src="img/ritz.jpg">
+							<img src="img/ritzpool.jpg">
 						</div>
 						
                         <p><b>Location:</b> Student Alumni Union<br>
