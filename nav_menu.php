@@ -11,7 +11,7 @@
     <li><a href="#">Nightlife</a></li>
     <li><a href="#">Shopping</a></li>
     <li><a href="#">Sports</a></li>
-    <li><a href="#>Place to live</a></li>
+    <li><a href="#">Place to live</a></li>
     <li><a href="#">Fun Facts</a></li>
 </ul>
 </div>
