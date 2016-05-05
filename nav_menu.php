@@ -6,11 +6,13 @@
         <a href="#">Tiger's Explore</a>
     </li>
     <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Nightlife</a></li>
+    <li><a href="#">Eat</a></li>
     <li><a href="#">Day Trips</a></li>
-    <li><a href="#">Food</a></li>
-    <li><a href="#">Support</a></li>
+    <li><a href="#">Nightlife</a></li>
+    <li><a href="#">Shopping</a></li>
+    <li><a href="#">Sports</a></li>
+    <li><a href="#>Place to live</a></li>
+    <li><a href="#">Fun Facts</a></li>
 </ul>
 </div>
 <!-- /#sidebar-wrapper -->
