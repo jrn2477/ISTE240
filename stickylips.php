@@ -73,8 +73,8 @@
                         <h2>Sticky Lips BBQ</h2>
 
                         <div class="foodpics">
-							<img src="images/lipspic1.jpg">
-							<img src="images/lipspic2.jpg">
+							<img src="img/lipspic1.jpg">
+							<img src="img/lipspic2.jpg">
 						</div>
 						
                         <p><b>Location:</b> 830 Jefferson Rd, Henrietta NY<br>
