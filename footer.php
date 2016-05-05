@@ -1,0 +1,1 @@
+<footer>Copyright &copy; Chris Bonsu, Eleazar Contreras, Jason Nordheim, Vincent McCormik, Steven Ricci &#64; 2016</footer> 
