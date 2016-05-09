@@ -83,7 +83,7 @@
                         <ul>
                             <li class="sm_item"><a class="sec_menu_links"href="shopping.php">Marketplace Mall</a></li>
                             <li class="sm_item"><a class="sec_menu_links"href="eastview.php">Eastview Mall</a></li>
-                            <li class="sm_item"><a class="sec_menu_links"href="#">Greece Ridge Mall</a></li>
+                            <li class="sm_item"><a class="sec_menu_links"href="greece.php">Greece Ridge Mall</a></li>
                         </ul>
                     </div>
                     </div>
