@@ -12,7 +12,7 @@
     <li><a href="shopping.php">Shopping</a></li>
     <li><a href="#">Sports</a></li>
     <li><a href="#">Place to live</a></li>
-    <li><a href="#">Fun Facts</a></li>
+    <li><a href="facts.php">Fun Facts</a></li>
 </ul>
 </div>
 <!-- /#sidebar-wrapper -->
