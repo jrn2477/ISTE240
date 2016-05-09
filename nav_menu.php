@@ -9,10 +9,10 @@
     <li><a href="ritz.php">Eat</a></li>
     <li><a href="#">Day Trips</a></li>
     <li><a href="#">Nightlife</a></li>
-    <li><a href="shopping.php">Shopping</a></li>
-    <li><a href="#">Sports</a></li>
+    <li><a href="shopping.php">Shopping</a></li>	
+	<li><a href="sport.php">Sports</a></li>	
     <li><a href="#">Place to live</a></li>
-    <li><a href="facts.php">Fun Facts</a></li>
+    <li><a href="#">Fun Facts</a></li>
 </ul>
 </div>
 <!-- /#sidebar-wrapper -->
