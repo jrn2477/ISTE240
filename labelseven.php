@@ -97,8 +97,8 @@
 
                         
                         <div class="foodpics">
-							<img src="images/labelpic1.jpg">
-							<img src="images/labelpic2.jpg">
+							<img src="img/labelpic1.jpg">
+							<img src="img/labelpic2.jpg">
 						</div>
 
    <p><b>Location:</b> 50 State St, Pittsford NY<br>
