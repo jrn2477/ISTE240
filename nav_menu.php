@@ -3,16 +3,16 @@
 <div id="sidebar-wrapper">
 <ul class="sidebar-nav">
     <li class="sidebar-brand">
-        <a href="#">Tiger's Explore</a>
+        <a href="index.php">Tiger's Explore</a>
     </li>
-    <li><a href="#">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li><a href="ritz.php">Eat</a></li>
-    <li><a href="#">Day Trips</a></li>
+    <li><a href="rochester.php">Day Trips</a></li>
     <li><a href="#">Nightlife</a></li>
     <li><a href="shopping.php">Shopping</a></li>	
 	<li><a href="sport.php">Sports</a></li>	
-    <li><a href="#">Place to live</a></li>
-    <li><a href="#">Fun Facts</a></li>
+    <li><a href="globalvillage.php">Place to live</a></li>
+    <li><a href="facts.php">Fun Facts</a></li>
 </ul>
 </div>
 <!-- /#sidebar-wrapper -->
