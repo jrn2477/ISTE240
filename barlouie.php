@@ -97,8 +97,8 @@
 
                         
                         <div class="foodpics">
-							<img src="images/louiepic1.jpg">
-							<img src="images/louiepic2.jpg">
+							<img src="img/louiepic1.jpg">
+							<img src="img/louiepic2.jpg">
 						</div>
 
    <p><b>Location:</b> 935 Jefferson Rd, Henrietta NY<br>
