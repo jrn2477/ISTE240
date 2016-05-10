@@ -120,7 +120,7 @@
                         <div class="map" id="col-xs-12 col-lg-8">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d93247.20607908526!2d-77.7445380467666!3d43.0840169432164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x89d14c5db1449f1f%3A0xae2a8a386181455e!2suniversity+commons+rit!3m2!1d43.084038299999996!2d-77.6744982!5e0!3m2!1sen!2sus!4v1462465825946" width="100%" height="275" frameborder="1" style="border:0; margin-top: 20px"; allowfullscreen></iframe>  
                         </div>
-                            
+                            	 <?php include "footer.php"; ?>
                             <div class="rtt">
                                 <a href="#top">Top of Page</a>
                             </div>

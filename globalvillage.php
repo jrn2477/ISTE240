@@ -118,7 +118,7 @@
                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.997030431226!2d-77.68091033452065!3d43.08355777914489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14c603a147e55%3A0xbe7eb31ed5e22c03!2sRochester+Institute+of+Technology!5e0!3m2!1sen!2sus!4v1462469254705" width="100%" height="275" frameborder="1" style="border:0" allowfullscreen></iframe> 
                                         
                                     </div>
-                                    
+                                    	 <?php include "footer.php"; ?>
                                     <div class="rtt">
                                         <a href="#top">Top of Page</a>
                                     </div>

@@ -178,7 +178,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.9528360959175!2d-77.67855398425912!3d43.0844868970359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14c603a147e55%3A0xbe7eb31ed5e22c03!2sRochester+Institute+of+Technology!5e0!3m2!1sen!2sus!4v1462819428923" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 							</div>
                         
-                        
+                        	 <?php include "footer.php"; ?>
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>

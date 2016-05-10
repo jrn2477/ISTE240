@@ -166,7 +166,7 @@
                         <div class="map" id="col-xs-12 col-lg-8">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.0021627429414!2d-77.63582158427093!3d43.08344987914492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14b75500865b3%3A0x954437d86cdbd199!2sThe+Marketplace+Mall!5e0!3m2!1sen!2sus!4v1462464150305" width="100%" height="70%"frameborder="1" style="border:0; margin-top: 20px;" allowfullscreen></iframe>
                         </div>
-                        
+                        	 <?php include "footer.php"; ?>
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>

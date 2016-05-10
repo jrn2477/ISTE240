@@ -116,7 +116,7 @@
                                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.5891997973204!2d-77.65967128429567!3d43.09213117914449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d14c832063cfbf%3A0xf4c550ca8d710ffa!2sPark+Point!5e0!3m2!1sen!2sus!4v1462470147674" width="100%" height="275" frameborder="1" style="border:0; margin-top: 20px;" allowfullscreen></iframe>
                                         
                                     </div>
-                                    
+                                    	 <?php include "footer.php"; ?>
                                     <div class="rtt">
                                         <a href="#top">Top of Page</a>
                                     </div>

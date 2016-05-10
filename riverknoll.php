@@ -118,6 +118,7 @@
                         
                                     </div>
                                     </section>
+										 <?php include "footer.php"; ?>
                                     <div class="rtt">
                                         <a href="#top">Top of Page</a>
                                     </div>

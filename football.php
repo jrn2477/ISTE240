@@ -160,7 +160,7 @@ take risky responsibility to avoid getting injured.
                         </div>
                         <!-- End Basketball Information Page --> 
 
-                   
+                   	 <?php include "footer.php"; ?>
                         
                         <div class="rtt">
                             <a href="#top">Top of Page</a>

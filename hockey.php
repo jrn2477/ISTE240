@@ -189,7 +189,7 @@ RIT hockey fans, buy RIT hockey clothes at Gene Polisseni Center or Barnes and N
                         <!-- End Basketball Information Page --> 
 					
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/W9QL1uBac1M" frameborder="0" allowfullscreen></iframe>
-                
+                	 <?php include "footer.php"; ?>
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>

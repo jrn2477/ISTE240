@@ -11,7 +11,7 @@
     <li><a href="#">Nightlife</a></li>
     <li><a href="shopping.php">Shopping</a></li>	
 	<li><a href="sport.php">Sports</a></li>	
-    <li><a href="globalvillage.php">Place to live</a></li>
+    <li><a href="places.php">Place to live</a></li>
     <li><a href="facts.php">Fun Facts</a></li>
 </ul>
 </div>

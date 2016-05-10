@@ -173,7 +173,7 @@ setlocale(LC_MONETARY, 'en_US');
 	} // end of else
 ?>
 
-                        
+                        	 <?php include "footer.php"; ?>
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>

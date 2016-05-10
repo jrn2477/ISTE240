@@ -157,7 +157,7 @@ you can play intramural soccer game.
 						
                         </div>
                         <!-- End Basketball Information Page --> 
-
+							 <?php include "footer.php"; ?>
                         
                         <div class="rtt">
                             <a href="#top">Top of Page</a>

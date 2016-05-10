@@ -166,7 +166,7 @@
                         <div class="map" id="col-xs-12 col-lg-8">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2916.6470705330157!2d-77.44513358427244!3d43.02781527914778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d133e7413dc2e9%3A0x33b6bd8bcc44d41c!2sEastview+Mall!5e0!3m2!1sen!2sus!4v1462722966014" width="100%" height="70%"frameborder="1" style="border:0; margin-top: 20px;" allowfullscreen></iframe>
                         </div>
-                        
+                        	 <?php include "footer.php"; ?>
                         <div class="rtt">
                             <a href="#top">Top of Page</a>
                         </div>

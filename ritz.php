@@ -120,7 +120,7 @@
             
         </div>
         <!-- /#page-content-wrapper -->
-
+	 <?php include "footer.php"; ?>
     </div>
     <!-- /#wrapper -->
 
